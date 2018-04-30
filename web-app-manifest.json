@@ -9,8 +9,8 @@
     ],
     "theme-color": "#9E9E9E",
     "background-color": "#9E9E9E",
-    "scope": "xxxx/memoryApp/",
-    "start-url": "xxxxs/memoryApp/index.html",
+    "scope": "https://clurts.github.io/memory/",
+    "start-url": "https://clurts.github.io/memory/index.html",
     "display": "standalone",
     "orientation": "portrait"
 }
