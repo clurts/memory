@@ -7,10 +7,10 @@
             "type": "image/png"
         }
     ],
-    "theme-color": "#9E9E9E",
-    "background-color": "#9E9E9E",
+    "theme_color": "#9E9E9E",
+    "background_color": "#9E9E9E",
     "scope": "https://clurts.github.io/memory/",
-    "start-url": "https://clurts.github.io/memory/index.html",
+    "start_url": "https://clurts.github.io/memory/index.html",
     "display": "standalone",
     "orientation": "portrait"
 }
